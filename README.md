@@ -91,6 +91,11 @@ cargo test --manifest-path onchain-academy/tests/rust/Cargo.toml
 anchor test
 ```
 
+## Contributors
+
+- [Sahir619](https://github.com/Sahir619) — Frontend development & integration
+- [ayaanshaikh0187](https://github.com/ayaanshaikh0187) — On-chain program & architecture
+
 ## License
 
 [MIT](LICENSE)
